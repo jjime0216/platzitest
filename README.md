@@ -37,6 +37,8 @@ Variables y operaciones
     Nombre completo (nombre y apellido)
     Dinero real (dinero ahorrado menos deudas)
 
+    >Ha sido resuelto en el archivo test.js
+
 Funciones
 
 1️⃣ Responde las siguientes preguntas en la sección de comentarios:
