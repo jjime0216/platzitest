@@ -44,8 +44,17 @@ Funciones
 1️⃣ Responde las siguientes preguntas en la sección de comentarios:
 
     ¿Qué es una función?
+    
+        Las funciones son uno de los bloques de construcción fundamentales en JavaScript. Una función en JavaScript es similar a un procedimiento, un conjunto de instrucciones que realiza una tarea o calcula un valor, pero para que un procedimiento califique como función, debe tomar alguna entrada y devolver una salida donde hay alguna relación obvia entre la entrada y la salida. Para usar una función, debes invocarla lo que significa que el nombre que le diste ha esa funcion lo pondras en la parte del codigo en el cual quieres que funciones
+
     ¿Cuándo me sirve usar una función en mi código?
+        
+        Con cualquier proceso puedes utilizar una funcion para hacer el codigo mas limpio y legible, es importante tener en cuenta que la idea no es repetir codigo y por esto las funciones nos ayudan. ya que, nos permiten utilizarlas multiples veces en diferentes partes del codigo sin repetir o escribir el mismo codigo varias veces.
+
     ¿Cuál es la diferencia entre parámetros y argumentos de una función?
+
+        * Parametros = Son los nombres que aparecen en la definicion de una funcion, con los parametros en JS no es necesario especificar el tipo
+        * Argumentos = Son los valores que pasamos a (y que recibe) una funcion.
 
 2️⃣ Convierte el siguiente código en una función, pero, cambiando cuando sea necesario las variables constantes por parámetros y argumentos en una función:
 
