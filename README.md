@@ -65,6 +65,8 @@ Funciones
 
     console.log("Mi nombre es " + completeName + ", pero prefiero que me digas " + nickname + ".");
 
+    > Punto resuelto en test.js
+
 Condicionales
 
 1️⃣ Responde las siguientes preguntas en la sección de comentarios:
